@@ -650,6 +650,14 @@ footer.rodape {
         margin-top: 20px;
     }
 
+    .title-2 h2 {
+   
+    font-size: 28px;
+    margin: 0 auto;
+    font-weight: 400;
+    max-width: 500px;
+}
+
     button.btn-2 {
         width: 90%;
     }
