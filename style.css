@@ -664,7 +664,7 @@ footer.rodape {
     
 
     button.btn-3 {
-        width: 50%;
+        width: 90%;
         margin-top: 40px;
        
     }
@@ -743,7 +743,7 @@ footer.rodape {
 @media screen  and (max-width:870px ) {
 
     button.btn-3 {
-        width: 30%;
+        width: 90%;
 
     }
     
